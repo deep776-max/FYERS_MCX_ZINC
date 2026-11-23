@@ -1,0 +1,2 @@
+run_name,ticker,symbol,rounding_multiple,index_available,futures_available,lowest_strike,highest_strike,timeframes
+MCX_ZINC_20261123_222730,ZINC,ZINC,5,False,True,325,440,5S|1|5|60|1D
